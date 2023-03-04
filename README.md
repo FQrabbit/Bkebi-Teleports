@@ -12,4 +12,9 @@ More comprehensive points can be viewed at [Sam5440/Genshin_Impact_Teleport](htt
 This file is what I usually use,this is for your reference only.  
 
 ---
-把你需要的物品`*.bpfc`文件放在注入器目录下的`tp_files`文件夹内，点重新加载即可使用
+把你需要的物品`*.bpfc`文件放在注入器目录下的`tp_files`文件夹内，点重新加载即可使用  
+
+---
+如果你看到传送文件描述里有`***_xxx`"+"，"+"说明这个合集可能需要打开范围拾取(破坏、自动解密)、或物品吸附。  
+
+如果你是使用自动传送，建议打开"智能传送"功能，加快最近距离的传送效率。
