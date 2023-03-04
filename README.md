@@ -7,7 +7,7 @@
 感谢Bkebi开发者们.
 
 ---
-Bkebi teleport file suitable for new version
+Bkebi teleport file suitable for new version  
 More comprehensive points can be viewed at [Sam5440/Genshin_Impact_Teleport](https://github.com/Sam5440/Genshin_Impact_Teleport)  
 This file is what I usually use,this is for your reference only.  
 
