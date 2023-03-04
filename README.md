@@ -12,4 +12,4 @@ More comprehensive points can be viewed at [Sam5440/Genshin_Impact_Teleport](htt
 This file is what I usually use,this is for your reference only.  
 
 ---
-把你需要的物品.bpfc文件放在注入器目录下的`tp_files`文件夹内，点重新加载即可使用
+把你需要的物品`*.bpfc`文件放在注入器目录下的`tp_files`文件夹内，点重新加载即可使用
