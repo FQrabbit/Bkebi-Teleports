@@ -1,0 +1,1 @@
+![76个兰那罗所需材料](76%E4%B8%AA%E5%85%B0%E9%82%A3%E7%BD%97%E6%89%80%E9%9C%80%E6%9D%90%E6%96%99.png "Materials required for 76 Aranara")
