@@ -1,13 +1,13 @@
 不建议打开【范围拾取】，因为点位做的时候已经做了2m能摸到的都传到中间的，打开范围拾取可能导致摸错其他探索点，浪费了100上限次数.  
-![范围拾取](png\1.png "Custom Pickup Range Disable")  
+![范围拾取](png/1.png "Custom Pickup Range Disable")  
 
 ---
 建议打开【智能传送】，增加自动传送效率.  
-![智能传送](png\2.png "Intelligent teleport Enable")  
+![智能传送](png/2.png "Intelligent teleport Enable")  
 
 ---
 建议打开【区域限制】解锁，避免没有开森林书地图导致被派蒙拉走 ~~(虽然应该不太影响?)~~   
-![菜单解锁器](png\3.png "Menu Unlocker-Enable-Region Limit")  
+![菜单解锁器](png/3.png "Menu Unlocker-Enable-Region Limit")  
 
 ---
 `B线`第`85`点是要赶狸猫才出现的狗粮点，看看你们需不需要，不需要后面我删掉，目前是存在的.  
