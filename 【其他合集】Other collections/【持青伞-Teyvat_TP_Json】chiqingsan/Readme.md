@@ -1,6 +1,6 @@
 # 来自[chiqingsan/Teyvat_TP_Json](https://github.com/chiqingsan/Teyvat_TP_Json)
 
-# [更新日志](#更新日志)
+[更新日志](#更新日志)
 
 首先，当你使用本json合集时，应知晓本json合集的理念：
 我们的目标是物资9999！
@@ -56,10 +56,10 @@
 圣遗物一共150个点位，分为了3天采集，每天采集50+个点（每个圣遗物点都有两个以上调查点，每天调查上限为100次）   
 注：如果遇到问题，或者空TP点，请在discord群组内找[@持青伞#6764](https://github.com/chiqingsan)进行反馈或者在qq群1056308869进行反馈   
 在此感谢[@Xcating](https://github.com/Xcating) 对本json点位的帮助！   
-在此感谢@傻逼#1867 的去重工具对本json点位的帮助！   
+在此感谢[dingzhen-vape](https://github.com/dingzhen-vape) 的去重工具对本json点位的帮助！   
 
 ---
-## 更新日志：   
+## 更新日志：
 
 * v1.6.3 [bkebi]
   * 1.#删除了镀金旅团的部分点位
