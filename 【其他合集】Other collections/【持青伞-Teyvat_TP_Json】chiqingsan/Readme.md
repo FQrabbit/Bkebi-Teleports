@@ -1,3 +1,5 @@
+###### 如果你只想升级材料够用，轻度挂机，可以考虑选择[Sleep_TP](../%E3%80%90%E7%9D%A1%E7%9C%A0_TP%E3%80%91Sleep_TP)，←这个合集相对轻度，所需时间更短.   
+---
 # 来自[chiqingsan/Teyvat_TP_Json](https://github.com/chiqingsan/Teyvat_TP_Json)
 
 [更新日志](#更新日志)
