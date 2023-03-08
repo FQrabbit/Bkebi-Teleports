@@ -1,3 +1,9 @@
+如果你想睡觉的时候锄锄地，而且控制在比较大的传送间隔 ~~(看起来更加安全?)~~ ，只想材料足够正常角色升级进度使用的话，相对轻度的$\underline{SleepTP}$比较适合你.   
+
+如果你只想背包9999(只管溢出)，不考虑挂机时间过长，可以考虑选择[Teyvat_TP_Json](https://github.com/FQrabbit/Bkebi-Teleports/tree/main/%E3%80%90%E5%85%B6%E4%BB%96%E5%90%88%E9%9B%86%E3%80%91Other%20collections/%E3%80%90%E6%8C%81%E9%9D%92%E4%BC%9E-Teyvat_TP_Json%E3%80%91chiqingsan)，←这个合集比较多材料，主打一个多，每天打到服务器每日掉落上限.
+
+---
+
 > \[\]内的数字代表星期几使用
 >
 > The number in \[\] represents the day of the week used
